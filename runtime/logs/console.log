@@ -1,0 +1,13 @@
+Yii Migration Tool (based on Yii v2.0.8-dev)
+
+Creating migration history table "easyii_migration"...Done.
+Total 1 new migration to be applied:
+	m000000_000000_install
+
+*** applying m000000_000000_install
+*** applied m000000_000000_install (time: 3.377s)
+
+
+1 migration was applied.
+
+Migrated up successfully.
